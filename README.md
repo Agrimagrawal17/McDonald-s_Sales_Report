@@ -4,10 +4,6 @@ This project presents a comprehensive **Sales Report Dashboard** for McDonald’
 
 ---
 
-## 🔗 Project Files
-
-- 📁 **Excel File (Dashboard + Data)**: https://github.com/tanshigarg/McDonalds-Project/blob/1907520057fa4c32ceb95b9b804497c60b2c5631/McDonalds%20project.xlsx
-
 ---
 
 ## 📌 Features
