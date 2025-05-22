@@ -31,11 +31,14 @@ This project presents a comprehensive **Sales Report Dashboard** for McDonald’
 - **Sales by Country**:
   - Highlights top-performing regions like Argentina, Brazil, and Colombia
 
----
+
+🔗 Project Files
+[https://docs.google.com/spreadsheets/d/1LDpqb6_Eru35wX3dy_yReO_Wtth6pnpd/edit?usp=sharing&ouid=111768811949552230543&rtpof=true&sd=true
+](https://docs.google.com/spreadsheets/d/1LDpqb6_Eru35wX3dy_yReO_Wtth6pnpd/edit?usp=sharing&ouid=111768811949552230543&rtpof=true&sd=true)---
 
 ## 📈 Dashboard Snapshot
 
-![Dashboard Preview](https://github.com/tanshigarg/McDonalds-Project/blob/1907520057fa4c32ceb95b9b804497c60b2c5631/mcd%20dashboard.png)
+![image](https://github.com/user-attachments/assets/a9045e86-7957-48eb-8d01-e2e3bbc33cc1)
 
 ---
 
